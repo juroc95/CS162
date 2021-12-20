@@ -1,4 +1,4 @@
-# CS162
+# Introduction to Computer Science
 
 CS 162 Introduction to Computer Science
 
